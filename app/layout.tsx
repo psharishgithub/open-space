@@ -14,8 +14,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "/Open-Space(Early Beta)",
-  description: "/Open-Space X Devfest 2024 website",
+  title: "/Open-Space(Closed Beta)",
+  description: "/Open-Space",
   icons: {
     icon: '/favicon.ico',
   },
